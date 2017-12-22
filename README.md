@@ -31,7 +31,7 @@ Ambari provides an intuitive, easy-to-use Hadoop management web UI. It enables S
 
 Ambari is accessible through this address: http://hadoop-w-1:8080
 
-![Data Pipelines](https://github.com/agambov/oic-interfaces/blob/master/img/ambari.png)
+![Data Pipelines](https://github.com/gamboabdoulraoufou/hdp-7-interfaces/blob/master/img/ambari.png)
 
 > Yarn Ressource Manager  
 
