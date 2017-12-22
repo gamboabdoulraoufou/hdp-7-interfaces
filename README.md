@@ -77,4 +77,4 @@ Hue is a Web interface for analyzing data with Hadoop. Hue is a suite of applica
 
 HUE is accessible through this address: http://hadoop-w-3:8888
 
-![Data Pipelines](https://github.com/agambov/hdp-7-interfaces/blob/master/img/hue.png)
+![Data Pipelines](https://github.com/gamboabdoulraoufou/hdp-7-interfaces/blob/master/img/hue.png)
